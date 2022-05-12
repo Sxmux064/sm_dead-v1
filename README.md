@@ -12,7 +12,7 @@ Field Name | Description
 ```SM.ItemToRevive``` = {{itemname = 'medikit', quantity = 1} | Max 1 item
 ```SM.UseSaltyChat``` = false | Use SaltyChat?
 ```SM.SecondToRespawn``` = 300 | Value in seconds
-```SM.Coord_Respawn``` = vec4(297.4962, -582.9484, 43.1325, 32.4987) | Coords respwawn: Default is Pillbox Hospital.
+```SM.Coord_Respawn``` = vec4(297.4962, -582.9484, 43.1325, 32.4987) | Coords respawn: Default is Pillbox Hospital.
 ```SM.animDict``` = 'dead'
 ```SM.animName``` = 'dead_a'
 ```SM.ReloadDeathAnimTime``` = 2000
