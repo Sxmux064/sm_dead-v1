@@ -18,9 +18,10 @@ Field Name | Description
 ```SM.ReloadDeathAnimTime``` = 2000
 ```SM.EnableDebugCommand``` = true -- enable command /die?
 
+# Language Config File.
 
-```SM.Languages = {
-    ['predeath_prog_label'] = 'Stai per morire dissanguato.',
+SM.Languages = {
+    ```['predeath_prog_label'] = 'Stai per morire dissanguato.',
     ['haven\'t_medikit'] = 'Non hai abbastanza ', -- left space for item name pls.
     ['respwan_avviable'] = 'RESPAWN DISPONIBILE IN ', -- text time to respawn
     ['click_to_respawn'] = 'PREMI [~b~E~s~] PER TORNARE IN OSPEDALE',
