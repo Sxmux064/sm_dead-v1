@@ -1,5 +1,5 @@
 # Description
-Sxmux dead system v1. Classic Death OPTIMIZED, 0.01 while dead all configurable in the config
+Sxmux dead system v1. Classic Death OPTIMIZED, 0.01 while dead all configurable in the config. Compatibile with ox_inventory and with all resource with the custom export.
 
 # Config File
 
