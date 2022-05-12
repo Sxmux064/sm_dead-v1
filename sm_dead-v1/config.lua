@@ -4,9 +4,6 @@ SM.ReviveCommand_Label = 'rianima' -- configurable /command to revive player ("s
 SM.HealCommand_Label = 'cura' -- configurable /command to heal player ("staff member")
 SM.Admin = 'mod' -- Second group to be enable to revive a player.
 SM.KeyToRespawn = 'E' -- Key to respawn after seconds
-SM.ItemToRevive = { -- max 1 item
-    {itemname = 'medikit', quantity = 1}
-}
 SM.UseSaltyChat = false -- Use SaltyChat?
 SM.SecondToRespawn = 30 -- seconds
 SM.Coord_Respawn = vec4(297.4962, -582.9484, 43.1325, 32.4987)
