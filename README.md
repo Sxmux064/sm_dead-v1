@@ -1,4 +1,4 @@
-# sm_dead-v1
+# Description
 Sxmux dead system v1. Classic Death OPTIMIZED, 0.01 while dead all configurable in the config
 
 # Config File
