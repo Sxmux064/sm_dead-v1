@@ -7,7 +7,7 @@ Field Name | Description
 | --- | --- |
 ```ReviveCommand_Label``` = 'rianima' | Configurable /command to revive player ("staff member")
 ```SM.HealCommand_Label``` = 'cura' | Configurable /command to heal player ("staff member")
-```SM.Admin = 'mod'``` | Second group to be enable to revive a player.
+```SM.Admin``` = 'mod' | Second group to be enable to revive a player.
 ```SM.KeyToRespawn``` = 'E' | Key to respawn after seconds
 ```SM.UseSaltyChat``` = false | Use SaltyChat?
 ```SM.SecondToRespawn``` = 300 | Value in seconds
