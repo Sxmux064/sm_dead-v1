@@ -172,7 +172,7 @@ AddEventHandler("sm_dead:revive",function()
     Citizen.Wait(1000)
     Rianima(PlayerPedId())
     else
-    ESX.ShowNotification(['you\'re_not_dead'] ..SM.HealCommand_Label) 
+    ESX.ShowNotification(SM.Languages.['you\'re_not_dead'] ..SM.HealCommand_Label) 
     end
 end)
 
